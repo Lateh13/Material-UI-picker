@@ -19,6 +19,12 @@
   color: white;
 }
 
+th {
+  border-bottom: thin solid;
+  height: 25px;
+  min-width: 120px;
+}
+
 .App-link {
   color: #61dafb;
 }
